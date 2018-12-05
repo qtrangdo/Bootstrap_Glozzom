@@ -43,3 +43,18 @@
     text-align: center;
     color: white;
 }
+
+#video-play {
+    position: relative;
+    min-height: 200px;
+    background: url(../img/media.jpg);
+    background-attachment: fixed;
+    background-position: 0 -300px;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+#video-play a {
+    color: white;
+}
